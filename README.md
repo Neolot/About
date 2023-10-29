@@ -1,7 +1,7 @@
 I'm Yurii, Full Stack PHP Developer / WordPress Developer from :ukraine: Odesa/Ukraine.
 
 [![Telegram](https://img.shields.io/badge/-neolot-0088cc?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/Neolot)](https://t.me/Neolot)
-[![RU Stackoverflow reputation](https://img.shields.io/stackexchange/ru.stackoverflow./r/237769?label=StackOverflow&logo=stackoverflow&style=for-the-badge)](https://ru.stackoverflow.com/users/237769/neolot)
+[![RU Stackoverflow reputation](https://img.shields.io/stackexchange/ru.stackoverflow.com/r/237769?label=StackOverflow&logo=stackoverflow&style=for-the-badge)](https://ru.stackoverflow.com/users/237769/neolot)
 
 ### Get in touch
 Telegram: https://t.me/Neolot  
